@@ -1,10 +1,10 @@
-# Randominfo #
+# Rndinfo #
 Random data generator for IDs, names, emails, passwords, dates, numbers, addresses, images, OTPs etc. This package includes data like names and addresses regarding Indian regions.
 
 ## Installation ##
 To install package from python-pip:
 
-`$ pip install randominfo`
+`$ pip install rndinfo`
 
 ## Features ##
 This package provides dummy data like...

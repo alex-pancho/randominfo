@@ -1,0 +1,4 @@
+.idea*
+*__pycache__*
+venv
+rndinfo/test_result.log
